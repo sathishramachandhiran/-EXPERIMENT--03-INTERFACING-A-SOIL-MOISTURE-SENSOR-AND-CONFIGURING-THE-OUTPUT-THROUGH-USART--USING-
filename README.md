@@ -174,7 +174,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 SUBMITTED BY
 NAME: RAJESH A
-REGNO: 212222100048
+REGNO: 212222100042
 ```
 ## Output screen shots of Serial port utility   :
 ![out](iot1.jpg)
