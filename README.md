@@ -5,21 +5,15 @@
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 ## Soil moisture sensor 
 The soil moisture sensor is one kind of sensor used to gauge the volumetric content of water within the soil. As the straight gravimetric dimension of soil moisture needs eliminating, drying, as well as sample weighting. These sensors measure the volumetric water content not directly with the help of some other rules of soil like dielectric constant, electrical resistance, otherwise interaction with neutrons, and replacement of the moisture content.
-
 The relation among the calculated property as well as moisture of soil should be adjusted & may change based on ecological factors like temperature, type of soil, otherwise electric conductivity. The microwave emission which is reflected can be influenced by the moisture of soil as well as mainly used in agriculture and remote sensing within hydrology.
 
 ![image](https://user-images.githubusercontent.com/36288975/234777393-51ef4e67-bfe4-4aed-b3ca-02fdcb7216f2.png)
-
-
-
-
   Soil Moisture Sensor Pin Configuration
 The FC-28 soil moisture sensor includes 4-pins as shown below 
 VCC pin is used for power
 A0 pin is an analog output
 D0 pin is a digital output
 GND pin is a Ground
-
 ![image](https://user-images.githubusercontent.com/36288975/234777177-7000d50b-e82a-4ba6-ab1e-e8b9e0903f68.png)
 
 
